@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/bomb01"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb03"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb05"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb07"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb09"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb11"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb13"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb15"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/bomb17"
+        android:duration="150"/>
+
+</animation-list>
